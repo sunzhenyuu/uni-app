@@ -672,7 +672,7 @@ h5 平台下拉刷新动画，只有 circle 类型。
 |borderRadius|String|0px|输入框的圆角半径，取值格式为"XXpx"，其中XX为像素值（逻辑像素），不支持rpx。|
 |placeholder|String||提示文本|
 |placeholderColor|String|#CCCCCC|提示文本颜色|
-|disabled|Boolean|false|是否可输入|
+|disabled|Boolean|false|是否可输入（false为可输入，true为不可输入）|
 
 **注意事项：**
 
